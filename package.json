@@ -1,0 +1,19 @@
+{
+	"name": "go_x",
+	"version": "1.0.0",
+	"description": "冲x",
+	"main": "index.js",
+	"bin": {
+		"go-x": "./index.js"
+	},
+	"scripts": {
+		"start": "node ./src/index.js"
+	},
+	"keywords": [],
+	"author": "xiaojia21190",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.4.5",
+		"puppeteer": "^19.2.2"
+	}
+}
